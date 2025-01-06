@@ -1,7 +1,4 @@
-# RBE 577 - Homework 2<br /><br />Convolutional Neural Networks for Autonomous Vehicles
-### 
-### Azzam Shaikh
-### Oct. 14, 2024
+# Convolutional Neural Networks for Autonomous Vehicles
 
 The purpose of this assignment is to finetune a pretrained ResNet model to classify images of road vehicles. This network would provide autonomous vehicles the ability to classify surrounding vehicles using on-board vision systems. 
 
